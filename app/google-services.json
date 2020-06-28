@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "702802776856",
+    "firebase_url": "https://tokens-45cd0.firebaseio.com",
+    "project_id": "tokens-45cd0",
+    "storage_bucket": "tokens-45cd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702802776856:android:d4cb0e165ec944c5d5c46d",
+        "android_client_info": {
+          "package_name": "com.example.listaagregar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702802776856-1k3ltoakss11a8qfvnihdv068gphlvrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHoJDh5SuRrb2IEdbN2NM8cKO5g4lCM_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702802776856-1k3ltoakss11a8qfvnihdv068gphlvrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
